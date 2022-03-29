@@ -1,3 +1,8 @@
-[功能参数Function parameter.pdf](https://github.com/BH1VDC/Radio-Toys/files/8367886/Function.parameter.pdf)
-# Radio-Toys
-CW keyer CWExerciser CW Morse code Multifunctional tools
+![20220213_134109](https://user-images.githubusercontent.com/102570539/160530073-4746bf0d-e3f5-472c-bf5d-fad494d6a423.jpg)
+![20220213_134229](https://user-images.githubusercontent.com/102570539/160530077-28d60de5-5d58-4372-95d7-a8a64bd64cfa.jpg)
+![20220213_134318](https://user-images.githubusercontent.com/102570539/160530079-03c05492-9b28-41d2-95b6-b8ef0957142a.jpg)
+![CW keyer](https://user-images.githubusercontent.com/102570539/160530119-933abcbd-8de0-48b1-b04f-6a93be99f8a4.jpg)
+![CW实战模式](https://user-images.githubusercontent.com/102570539/160530121-8aad468d-244b-43ca-a525-9e421e2f7f2c.jpg)
+![播放模式](https://user-images.githubusercontent.com/102570539/160530123-68d33551-831f-4a6a-9ef2-5d697f88709b.jpg)
+![摩斯码练习模式](https://user-images.githubusercontent.com/102570539/160530124-66a2898c-7d51-495c-b0e7-5593a80dd9a1.jpg)
+![主界面](https://user-images.githubusercontent.com/102570539/160530127-73defad9-90f8-4c9d-86f2-297e1735ca67.jpg)
