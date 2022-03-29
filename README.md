@@ -81,13 +81,19 @@ DSP前级采集模块
 
 电子邮件 88209330@qq.com
 
-附件 1、 8.4V外置充电器
+附件 
+
+     1、 8.4V外置充电器
 
      2、 3.5 插头4节 2个
      
      3、 DMR PCB（选装）
      
      4、 各类挡板
+     
+The following is machine translation！！！
+
+If you need more accuracy, please translate the above Chinese！！！
      
 3.2.2 Firmware Version Function:
 
