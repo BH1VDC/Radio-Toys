@@ -9,6 +9,16 @@
 
 ![英文](https://user-images.githubusercontent.com/102570539/160530928-818d1541-1f56-4c94-9c52-c8042de18923.jpg)
 
+![3 2 2 mp4_1648023501](https://user-images.githubusercontent.com/102570539/160533233-eb3babb7-be12-4cb1-ba42-07cbacf75ea7.gif)
+![3 3 2 mp4_1648038613](https://user-images.githubusercontent.com/102570539/160533242-fac3dd72-571f-47c7-9cc3-b1565a575b6e.gif)
+![10_1 mp4_1648023240](https://user-images.githubusercontent.com/102570539/160533245-f0ce8903-4726-4ea0-9571-02bbfecc2cc5.gif)
+![10_1 mp4_1648023397](https://user-images.githubusercontent.com/102570539/160533248-6638cc74-a534-4d4b-9693-35933aca1fda.gif)
+![10_1 mp4_1648037795](https://user-images.githubusercontent.com/102570539/160533252-97fabf7d-a1c8-402a-a3af-a494d18e083c.gif)
+![20220322_111213 mp4_1648022645](https://user-images.githubusercontent.com/102570539/160533255-96e89ba3-1771-476c-aa5b-fc31214ddd9d.gif)
+![20220322_112133 mp4_1648022564](https://user-images.githubusercontent.com/102570539/160533256-239cd7e2-2de0-4f9e-8d4a-9cefee66f749.gif)
+![解码 cwkeyer 短视频 mp4_1648023571](https://user-images.githubusercontent.com/102570539/160533257-c2efcb01-051b-41c9-b560-b5e672f4a007.gif)
+![练习器 短视频 mp4_1648023756](https://user-images.githubusercontent.com/102570539/160533259-3a311ed6-5f61-4ca6-a38a-a723199fd7f2.gif)
+
 
 3.2.2固件版本 功能： 
 
